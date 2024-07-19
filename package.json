@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/palamakuladeepika/Timer",
+  "homepage": "https://palamakuladeepika.github.io/Timer",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
